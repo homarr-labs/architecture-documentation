@@ -1,0 +1,73 @@
+<mxfile host="app.diagrams.net" modified="2024-07-08T14:01:47.989Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36" etag="Lq8vEN-A9wM7YApiwYjF" version="24.4.2" type="device">
+  <diagram name="Page-1" id="F6UR_p2f44TNKBcpo4_m">
+    <mxGraphModel dx="989" dy="532" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-1" value="Browser" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry y="40" width="800" height="520" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-2" value="Header" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry y="40" width="800" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-4" value="Empty" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="80" width="780" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-9" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="230" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-5" value="Collapsable Category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-9">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-6" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-9">
+          <mxGeometry x="750" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-10" value="Empty" style="rounded=1;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
+          <mxGeometry x="10" y="290" width="780" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-13" value="Folder" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="300" width="50" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-14" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#232F3D;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.folder;" vertex="1" parent="1">
+          <mxGeometry x="736" y="307.7" width="38" height="34.59" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-15" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="440" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-16" value="Collapsable Category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-15">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-17" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-15">
+          <mxGeometry x="750" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-18" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="10" y="500" width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-19" value="Collapsable Category" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-18">
+          <mxGeometry width="780" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-20" value="" style="triangle;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-18">
+          <mxGeometry x="750" y="10" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-21" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="20" y="300" width="145.6066017177982" height="110.60660171779818" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-11" value="Dynamic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-21">
+          <mxGeometry width="140" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-12" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-21">
+          <mxGeometry x="130" y="90" width="10" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-22" value="" style="group" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="170" y="300" width="330" height="68.68" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-23" value="Dynamic" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-22">
+          <mxGeometry width="317.2933057632973" height="59.670940951962784" as="geometry" />
+        </mxCell>
+        <mxCell id="29nh1YLHfp33Wi5hV8jT-24" value="" style="triangle;whiteSpace=wrap;html=1;rotation=45;" vertex="1" parent="29nh1YLHfp33Wi5hV8jT-22">
+          <mxGeometry x="290.00000000000006" y="30.96" width="15.45" height="28.71" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
